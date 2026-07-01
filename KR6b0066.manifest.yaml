@@ -1,0 +1,1051 @@
+canonical_identifier: bkk:krp/KR6b0066/v1
+canonical_location: https://kanripo.org/bkk/KR6b0066/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 百喻經
+  identifiers:
+    alt_id:
+    - T04n0209
+  tags:
+    kr-categories: KR6b
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    - tr-zh
+    - tr-ru
+    - tr-fr
+    tls-dates: dat04100
+  source:
+    repository: tls-texts
+    path: data/tls/KR6b0066.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR6b0066_001.yaml, hash: 'sha256:227c0d682c81c0fd79c58899f327ca8466124eb563c22adc674fb51029c6fadb'}
+  - {seq: 2, filename: KR6b0066_002.yaml, hash: 'sha256:c4b04c77add124aaecbc8d7714d54d9f825c9aea3f4fbfd0038409f1a01bdb7c'}
+  - {seq: 3, filename: KR6b0066_003.yaml, hash: 'sha256:df4d1a8c4b6aeefdec6a92472cdfa7342a03b8238d3a1853a44ea1cb8431d735'}
+  - {seq: 4, filename: KR6b0066_004.yaml, hash: 'sha256:3ff671e2b6aade4ab1162c78c4ee17cd68ef20d64420331fdafde784de4cbea8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6b0066_001.markers.yaml, hash: 'sha256:42b8ca59463f4d8e1ba1381e56424b947686e6c89cfb60e95abab6826e5ad36f'}
+  - {seq: 2, role: markers, filename: assets/KR6b0066_002.markers.yaml, hash: 'sha256:1a1cea907048d44ce9053ae68b8523fd4f76930cc311073a7e2e0014d689de13'}
+  - {seq: 3, role: markers, filename: assets/KR6b0066_003.markers.yaml, hash: 'sha256:9ad7a21ef481cf7a2af8fae46c5322cb750ac6719c7951b173192e5c7ceef38b'}
+  - {seq: 4, role: markers, filename: assets/KR6b0066_004.markers.yaml, hash: 'sha256:80fb3e7fdfe02a0b169194f3d4f2998b7a57c3012dfb424f3070e55384e2fef8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0543a.30-h
+    span:
+    - body
+    - 0
+    - 127
+  label: 一愚人食鹽喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0543a.59-h
+    span:
+    - body
+    - 127
+    - 292
+  label: 二愚人集牛乳喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0543b.22-h
+    span:
+    - body
+    - 292
+    - 471
+  label: 三以梨打頭破喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0543b.59-h
+    span:
+    - body
+    - 471
+    - 677
+  label: 四婦詐稱死喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0543c.17-h
+    span:
+    - body
+    - 677
+    - 819
+  label: 五渴見水喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0543c.47-h
+    span:
+    - body
+    - 819
+    - 1057
+  label: 六子死欲停置家中喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0544a.3-h
+    span:
+    - body
+    - 1057
+    - 1260
+  label: 七認人為兄喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0544a.46-h
+    span:
+    - body
+    - 1260
+    - 1475
+  label: 八山羗偷官庫喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0544b.3-h
+    span:
+    - body
+    - 1475
+    - 1618
+  label: 九歎父德行喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0544b.33-h
+    span:
+    - body
+    - 1618
+    - 1919
+  label: 一三重樓喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0544c.4-h
+    span:
+    - body
+    - 1919
+    - 2135
+  label: 一一婆羅門殺子喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0544c.45-h
+    span:
+    - body
+    - 2135
+    - 2275
+  label: 一二煮黑石蜜漿喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0544c.70-h
+    span:
+    - body
+    - 2275
+    - 2471
+  label: 一三說人喜瞋喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0545a.31-h
+    span:
+    - body
+    - 2471
+    - 2649
+  label: 一四殺商主祀天喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0545a.64-h
+    span:
+    - body
+    - 2649
+    - 2863
+  label: 一五醫與王女藥令卒長大喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0545b.22-h
+    span:
+    - body
+    - 2863
+    - 2994
+  label: 一六灌甘蔗喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0545b.51-h
+    span:
+    - body
+    - 2994
+    - 3104
+  label: 一七債半錢喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0545b.75-h
+    span:
+    - body
+    - 3104
+    - 3239
+  label: 一八就樓磨刀喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0545c.16-h
+    span:
+    - body
+    - 3239
+    - 3439
+  label: 一九乘船失釪喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0545c.64-h
+    span:
+    - body
+    - 3439
+    - 3635
+  label: 二人說王縱暴喻
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0066_T_001-0546a.15-h
+    span:
+    - body
+    - 3635
+    - 4157
+  label: 二一婦女欲更求子喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_001-0546a.15-h
+    span:
+    - body
+    - 0
+    - 126
+  label: 二一婦女欲更求子喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0546b.25-h
+    span:
+    - body
+    - 126
+    - 264
+  label: 入海取沈水喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0546c.14-h
+    span:
+    - body
+    - 264
+    - 349
+  label: 二三賊偷錦繡用裹氀褐喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0546c.28-h
+    span:
+    - body
+    - 349
+    - 461
+  label: 二四種熬胡麻子喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0546c.51-h
+    span:
+    - body
+    - 461
+    - 573
+  label: 二五水火喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0546c.69-h
+    span:
+    - body
+    - 573
+    - 775
+  label: 二六人効王眼瞤喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0547a.37-h
+    span:
+    - body
+    - 775
+    - 918
+  label: 二七治鞭瘡喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0547a.66-h
+    span:
+    - body
+    - 918
+    - 1105
+  label: 二八為婦貿鼻喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0547b.16-h
+    span:
+    - body
+    - 1105
+    - 1348
+  label: 二九貧人燒麤褐衣喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0547b.62-h
+    span:
+    - body
+    - 1348
+    - 1586
+  label: 三牧羊人喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0547c.23-h
+    span:
+    - body
+    - 1586
+    - 1862
+  label: 三一雇借瓦師喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0547c.68-h
+    span:
+    - body
+    - 1862
+    - 1977
+  label: 三二估客偷金喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0548a.20-h
+    span:
+    - body
+    - 1977
+    - 2136
+  label: 三三斫樹取果喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0548a.54-h
+    span:
+    - body
+    - 2136
+    - 2364
+  label: 三四送美水喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0548b.13-h
+    span:
+    - body
+    - 2364
+    - 2565
+  label: 三五寶篋鏡喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0548b.52-h
+    span:
+    - body
+    - 2565
+    - 2764
+  label: 三六破五通仙眼喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0548c.6-h
+    span:
+    - body
+    - 2764
+    - 2899
+  label: 三七殺群牛喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0548c.32-h
+    span:
+    - body
+    - 2899
+    - 3128
+  label: 三八飲木筩水喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0548c.78-h
+    span:
+    - body
+    - 3128
+    - 3316
+  label: 三九見他人塗舍喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0549a.32-h
+    span:
+    - body
+    - 3316
+    - 3554
+  label: 四治禿喻
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0066_T_002-0549a.72-h
+    span:
+    - body
+    - 3554
+    - 3838
+  label: 四一毘舍闍鬼喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_002-0549a.72-h
+    span:
+    - body
+    - 0
+    - 175
+  label: 四一毘舍闍鬼喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0549c.10-h
+    span:
+    - body
+    - 175
+    - 370
+  label: 四二估客駝死喻譬如估客
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0549c.40-h
+    span:
+    - body
+    - 370
+    - 468
+  label: 四三磨大石喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0549c.56-h
+    span:
+    - body
+    - 468
+    - 650
+  label: 四四欲食半餅喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0550a.24-h
+    span:
+    - body
+    - 650
+    - 866
+  label: 四五奴守門喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0550a.65-h
+    span:
+    - body
+    - 866
+    - 1052
+  label: 四六偷犛牛喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0550b.19-h
+    span:
+    - body
+    - 1052
+    - 1261
+  label: 四七貧人作鴛鴦鳴喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0550b.56-h
+    span:
+    - body
+    - 1261
+    - 1380
+  label: 四八野干為折樹枝所打喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0550c.1-h
+    span:
+    - body
+    - 1380
+    - 1537
+  label: 四九小兒爭分別毛喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0550c.26-h
+    span:
+    - body
+    - 1537
+    - 1615
+  label: 五醫治脊僂喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0550c.41-h
+    span:
+    - body
+    - 1615
+    - 1719
+  label: 五一五人買婢共使作喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0550c.56-h
+    span:
+    - body
+    - 1719
+    - 1798
+  label: 五二伎兒作樂喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0551a.3-h
+    span:
+    - body
+    - 1798
+    - 1914
+  label: 五三師患脚付二弟子喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0551a.17-h
+    span:
+    - body
+    - 1914
+    - 2016
+  label: 五四蛇頭尾共爭在前喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0551a.37-h
+    span:
+    - body
+    - 2016
+    - 2190
+  label: 五五願為王剃鬚喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0551a.66-h
+    span:
+    - body
+    - 2190
+    - 2362
+  label: 五六索無物喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0551b.29-h
+    span:
+    - body
+    - 2362
+    - 2538
+  label: 五七蹋長者口喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0551b.59-h
+    span:
+    - body
+    - 2538
+    - 2851
+  label: 五八二子分財喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0551c.35-h
+    span:
+    - body
+    - 2851
+    - 3008
+  label: 五九觀作瓶喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0551c.68-h
+    span:
+    - body
+    - 3008
+    - 3195
+  label: 六見水底金影喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0552a.36-h
+    span:
+    - body
+    - 3195
+    - 3388
+  label: 六一梵天弟子造物因喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0552a.71-h
+    span:
+    - body
+    - 3388
+    - 3628
+  label: 六二病人食雉肉喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0552b.27-h
+    span:
+    - body
+    - 3628
+    - 3888
+  label: 六三伎兒著戲羅剎服共相驚怖喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0552c.3-h
+    span:
+    - body
+    - 3888
+    - 4061
+  label: 六四人謂故屋中有惡鬼喻
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0066_T_003-0552c.30-h
+    span:
+    - body
+    - 4061
+    - 4864
+  label: 六五五百歡喜丸喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_003-0552c.30-h
+    span:
+    - body
+    - 0
+    - 214
+  label: 六五五百歡喜丸喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0553b.37-h
+    span:
+    - body
+    - 214
+    - 426
+  label: 六六口誦乘船法而不解用喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0553c.25-h
+    span:
+    - body
+    - 426
+    - 646
+  label: 六七夫婦食餅共為要喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0553c.63-h
+    span:
+    - body
+    - 646
+    - 797
+  label: 六八共相怨害喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0554a.17-h
+    span:
+    - body
+    - 797
+    - 975
+  label: 六九効其祖先急速食喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0554a.51-h
+    span:
+    - body
+    - 975
+    - 1187
+  label: 七嘗菴婆羅果喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0554b.12-h
+    span:
+    - body
+    - 1187
+    - 1305
+  label: 七一為二婦故喪其兩目喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0554b.34-h
+    span:
+    - body
+    - 1305
+    - 1480
+  label: 七二唵米決口喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0554b.72-h
+    span:
+    - body
+    - 1480
+    - 1642
+  label: 七三詐言馬死喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0554c.25-h
+    span:
+    - body
+    - 1642
+    - 1779
+  label: 七四出家凡夫貪利養喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0554c.49-h
+    span:
+    - body
+    - 1779
+    - 1935
+  label: 七五駝甕俱失喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0554c.76-h
+    span:
+    - body
+    - 1935
+    - 2156
+  label: 七六田夫思王女喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0555a.40-h
+    span:
+    - body
+    - 2156
+    - 2319
+  label: 七七搆驢乳喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0555a.72-h
+    span:
+    - body
+    - 2319
+    - 2491
+  label: 七八與兒期早行喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0555b.24-h
+    span:
+    - body
+    - 2491
+    - 2646
+  label: 七九為王負机喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0555b.49-h
+    span:
+    - body
+    - 2646
+    - 2827
+  label: 八倒灌喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0555c.7-h
+    span:
+    - body
+    - 2827
+    - 2978
+  label: 八一為熊所嚙喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0555c.36-h
+    span:
+    - body
+    - 2978
+    - 3160
+  label: 八二比種田喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0555c.75-h
+    span:
+    - body
+    - 3160
+    - 3235
+  label: 八三獼猴喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0556a.7-h
+    span:
+    - body
+    - 3235
+    - 3296
+  label: 八四月蝕打狗喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0556a.18-h
+    span:
+    - body
+    - 3296
+    - 3436
+  label: 八五婦女患眼痛喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0556a.46-h
+    span:
+    - body
+    - 3436
+    - 3628
+  label: 八六父取兒耳璫喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0556b.3-h
+    span:
+    - body
+    - 3628
+    - 3773
+  label: 八七劫盜分財喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0556b.29-h
+    span:
+    - body
+    - 3773
+    - 3856
+  label: 八八獼猴把豆喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0556b.46-h
+    span:
+    - body
+    - 3856
+    - 4004
+  label: 八九得金鼠狼喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0556b.74-h
+    span:
+    - body
+    - 4004
+    - 4150
+  label: 九地得金錢喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0556c.23-h
+    span:
+    - body
+    - 4150
+    - 4294
+  label: 九一貧兒欲與富等財物喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0556c.49-h
+    span:
+    - body
+    - 4294
+    - 4404
+  label: 九二小兒得歡喜丸喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0556c.67-h
+    span:
+    - body
+    - 4404
+    - 4579
+  label: 九三老母捉熊喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0557a.31-h
+    span:
+    - body
+    - 4579
+    - 4787
+  label: 九四摩尼水竇喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0557a.73-h
+    span:
+    - body
+    - 4787
+    - 4957
+  label: 九五二鴿喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0557b.25-h
+    span:
+    - body
+    - 4957
+    - 5067
+  label: 九六詐稱眼盲喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0557b.46-h
+    span:
+    - body
+    - 5067
+    - 5275
+  label: 九七為惡賊所劫失㲲喻
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0066_T_004-0557c.3-h
+    span:
+    - body
+    - 5275
+    - 5579
+  label: 九八小兒得大龜喻
+  type: section
+  level: 1
+hash: sha256:f12f5ed07379bb7a770da214130056ebe1d39417fb882a19c478140cabc73293
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
