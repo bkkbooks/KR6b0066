@@ -33,7 +33,7 @@ assets:
   - {seq: 1, role: markers, filename: assets/KR6b0066_001.markers.yaml, hash: 'sha256:38937b5496af908cc51a7d756851ecf92cdc97ea8699f914b7e3deb13caeda43'}
   - {seq: 2, role: markers, filename: assets/KR6b0066_002.markers.yaml, hash: 'sha256:f7ccf077728b0629e5572c7cd7c2d77a58955a21d779859cf6b4e1b953b31124'}
   - {seq: 3, role: markers, filename: assets/KR6b0066_003.markers.yaml, hash: 'sha256:57ff2b1f0c680d21a0bc3e8024474df3bc4e66102127c01250ed66cb83db5e09'}
-  - {seq: 4, role: markers, filename: assets/KR6b0066_004.markers.yaml, hash: 'sha256:70f5993126fc90f6e456c397da2ca15f81b4e2b039e31fce5df9b5ca872ac8c3'}
+  - {seq: 4, role: markers, filename: assets/KR6b0066_004.markers.yaml, hash: 'sha256:99019a1354d3383543b3fab8655c3471980c368ab576deb09fc370c444fb9d06'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1045,7 +1045,7 @@ table_of_contents:
   label: 九八小兒得大龜喻
   type: section
   level: 1
-hash: sha256:4fae24bf56e0f4f6cf528c83cd659d4df5ef0ec14a656f9c974775a7fbfb2efb
+hash: sha256:61698b94b9f3b75fb3e5f5d924b13875974bda0701fb7d96b38b57561915cf23
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

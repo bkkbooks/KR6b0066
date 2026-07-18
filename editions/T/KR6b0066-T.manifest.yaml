@@ -32,7 +32,7 @@ assets:
   - {seq: 1, role: markers, filename: assets/KR6b0066_001-T.markers.yaml, hash: 'sha256:877175b8772a5e5f345201a5c37f6b61a1bce0c34869276988d803b0d050b920'}
   - {seq: 2, role: markers, filename: assets/KR6b0066_002-T.markers.yaml, hash: 'sha256:2803657abbef802f7ea56c16868ed8241c8e98ebf87179de674dc56ef327ccfc'}
   - {seq: 3, role: markers, filename: assets/KR6b0066_003-T.markers.yaml, hash: 'sha256:b309b46e23040cf75f22fceef540e22f58a680e1b730ecc13cc2f3f99af3282a'}
-  - {seq: 4, role: markers, filename: assets/KR6b0066_004-T.markers.yaml, hash: 'sha256:81fb3ae777ad6740771ab152c3f5cc71eccb8b8efb8d79f104cf74a6ce9496f0'}
+  - {seq: 4, role: markers, filename: assets/KR6b0066_004-T.markers.yaml, hash: 'sha256:ec5d6689e40fdebab2edb7d23ff24d49ee8cb66150743a2c866c2ad6b7524d4a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1044,4 +1044,4 @@ table_of_contents:
   label: 九八小兒得大龜喻
   type: section
   level: 1
-hash: sha256:036a4fc962e5df7b8c931be55fe158c652acf7411c444e914b3015f1e78aa42c
+hash: sha256:4da7d9cb1280b544e5555fe06ecd80ed69eda1af41f8d7c7827a3592d594b5c5
